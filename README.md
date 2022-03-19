@@ -1,4 +1,4 @@
-## Meu nome é João Pedro Viana
+
 
 
 ![Snake animation](https://github.com/JoaoViana2004/JoaoViana2004/blob/output/github-contribution-grid-snake.svg)
