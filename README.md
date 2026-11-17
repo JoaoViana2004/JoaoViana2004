@@ -20,3 +20,7 @@
    <img align="center" alt="JP-Linkedin"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 </div>
+
+<div align="center">
+  <img alt="cobrinha das contribuições" src="https://raw.githubusercontent.com/JoaoViana2004/JoaoViana2004/output/github-contribution-grid-snake.svg"/>
+</div>
